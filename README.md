@@ -37,16 +37,16 @@
 ###### 🚀 Установка и запуск
 
 Установка 
-
-git clone https://github.com/Sinabon4/rock_paper_scissors.git
+- git clone https://github.com/Sinabon4/rock_paper_scissors.git
 cd rock_paper_scissors
 
 Запуск игры
-
-python main.py
+- python main.py
 
 Запуск тестов
+- pytest tests/
 
-pytest tests/
+###### Демонстрация механики играы
 
+🕹️https://drive.google.com/file/d/1QE0CqrejdgbHv6kYfkgYcMxr-_zl_TXd/view?usp=sharing 
 
